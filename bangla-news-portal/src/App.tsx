@@ -1,4 +1,4 @@
-import React, { useState } from "react";
+import { useState } from "react";
 import { newspapers } from "./data/newspapers";
 import { categoryNews } from "./data/newsData";
 import { Search, Globe, ChevronRight } from "lucide-react";

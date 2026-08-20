@@ -136,7 +136,7 @@ function App() {
             <p className="text-slate-400 text-sm font-medium mb-2">
               © ২০২৬ | বাংলাদেশের সব সংবাদ এক ঠিকানায়
             </p>
-            <p className="text-[12px] text-slate-500 tracking-wide font-medium">
+            <p className="text-[12px] text-slate-500 tracking-wide  font-medium">
               Developed by Kamal Hossan, Student of Netrakona University
             </p>
           </div>
